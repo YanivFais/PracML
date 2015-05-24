@@ -84,6 +84,7 @@ We then predict using the training data model
 
 ```{r}
 predictTest <- predict(model, testClean)
+predictTest
 ```
 
 # Summary
